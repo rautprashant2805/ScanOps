@@ -482,3 +482,5 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/equipments.db
+API/equipments.db-shm
+.gitignore
